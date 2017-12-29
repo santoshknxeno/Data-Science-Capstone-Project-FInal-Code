@@ -9,6 +9,8 @@ Presenting application APP PREDICT which predicts next word using N-gram model.
 APP PREDICT can be accessed and used with the following
 link:https://santoshkn.shinyapps.io/Coursera-Data-Science-Capstone-Project/
 
+Source code Git Hub - https://github.com/santoshknxeno/Data-Science-Capstone-Project-FInal-Code.git 
+
 
 THE PROJECT SUMMARY
 ========================================================
@@ -56,9 +58,6 @@ HOW THE ALGORITHM OF THE APP PREDICT WORKS:
 
 The App cleans the input and tokenizes the words.
 The entered word(s) are passed to the prediction algorithm.
-Prediction function searches the N-gram dictionary for the top list of predicted words.
-Suggested next word is displayed along with other prediction options & their likelihoods.
-APP PREDICT can be accessed and used with the following link: https://aquilat.shinyapps.io/appredict
 
-- Here is the APp link - https://santoshkn.shinyapps.io/Coursera-Data-Science-Capstone-Project/
-- The code is available on [GitHub](https://github.com/santoshknxeno/Data-Science-Capstone-Project-FInal-Code.git)
+APP PREDICT can be accessed and used with the following link:  https://santoshkn.shinyapps.io/Coursera-Data-Science-Capstone-Project/
+- The code is available on [GitHub] https://github.com/santoshknxeno/Data-Science-Capstone-Project-FInal-Code.git
